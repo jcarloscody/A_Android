@@ -27,4 +27,7 @@
 - android:exported:  true- outros Apps ou o próprio sistema Android consiga abrir a Activity, false- apenas o App consiga abrir a Activity
 
 ### Bundle: 
-- uma classe que temos a capacidade de enviar info entre as activities
+- uma classe que temos a capacidade de enviar info entre as activities7
+
+## Adapter
+- um intermediario entre a view e os dados
