@@ -1,3 +1,5 @@
+import POO.Conta
+
 fun main() {
    var titular:String = "titular" //variavel mutavel
    var variavel_por_inferencia= "strin"
@@ -41,6 +43,7 @@ fun main() {
 
    }while (false)
 
+   var f = Conta()
 
 }
 
